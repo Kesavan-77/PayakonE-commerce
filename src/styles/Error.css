@@ -1,0 +1,23 @@
+.error{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.error img{
+    height:30%;
+    width:30%;
+}
+@media screen and (max-width: 1024px) {
+    .error img{
+        height:50%;
+        width:50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .error img{
+        height:100%;
+        width:100%;
+    }
+}

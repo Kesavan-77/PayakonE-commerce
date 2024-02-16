@@ -1,0 +1,122 @@
+.about{
+    display:flex;
+    flex-direction: column;
+    gap:4rem;
+}
+.about .header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 2rem
+}
+.about .header .head-image img{
+    border-radius: 20px;
+    height: 350px;
+    width: auto;
+}
+.about .header .head-cont p{
+    font-size: 20px;
+    color:rgb(128, 128, 128);
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+.about .header .head-cont h2{
+    font-size: 40px;
+    color: #6b3bc4;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.about .header .head-cont button{
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    border: 3px solid #6b3bc4;
+    background-color: #fff;
+    margin-top: 20px;
+    color: #6b3bc4;
+    font-weight: bold;
+    cursor: pointer;
+}
+.about .header .head-cont button:hover{
+    border: 3px solid #6b3bc4;
+    background-color: #6b3bc4;
+    color: #fff;
+}
+.about .about-body{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.about .about-body .vision{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #f9f6ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.about .about-body .mission{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: #f9f6ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.about .about-body h4{
+    font-size: 1.5rem;
+    color:#676767;
+}
+.about .about-body h1{
+    font-size: 2.5rem;
+    color:#6b3bc4;
+}
+.about .about-body p{
+    font-size: 1.2rem;
+    text-align: justify;
+    color:#676767;
+}
+
+@media screen and (max-width: 1024px) {
+    .about .header{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        gap: 2rem
+    }
+    .about .header .head-image img{
+        border-radius: 20px;
+        height: 100%;
+        width: 100%;
+    }
+    .about .about-body{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 4rem;
+    }
+}
+@media screen and (max-width: 425px){
+    .about .header .head-cont p{
+    font-size: 15px;
+    color:rgb(128, 128, 128);
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+.about .about-body h4{
+    font-size: 1.2rem;
+    color:#676767;
+}
+.about .about-body h1{
+    font-size: 2rem;
+    color:#6b3bc4;
+}
+.about .about-body p{
+    font-size: 1rem;
+    text-align: justify;
+}
+}

@@ -1,0 +1,55 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+.contact p{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 500;
+}
+.container-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.container-form form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap:1rem;
+    font-size: 1rem;
+}
+
+.container-form form input{
+    padding: 10px 20px 10px 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(111, 111, 111);
+}
+.container-form form textarea{
+    padding: 10px 20px 10px 20px;
+    border-radius: 6px;
+    border: 2px solid rgb(111, 111, 111);
+}
+
+.container-form form .submit{
+    width:8rem;
+    padding: 10px 20px 10px 20px;
+    border-radius: 8px;
+    border: 3px solid #6b3bc4;
+    background-color: #6b3bc4;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+    .container-form form{
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        gap:1rem;
+    }
+    
+}
