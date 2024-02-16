@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PayakonE-commerce/static/css/main.b31fd8d1.css",
+    "main.js": "/PayakonE-commerce/static/js/main.7174a108.js",
+    "static/js/787.34115356.chunk.js": "/PayakonE-commerce/static/js/787.34115356.chunk.js",
+    "static/media/hero.jpg": "/PayakonE-commerce/static/media/hero.d20c994dce0aae7c50d1.jpg",
+    "static/media/error.jpg": "/PayakonE-commerce/static/media/error.ddd07d0ab7f02db7c3f7.jpg",
+    "static/media/company4.png": "/PayakonE-commerce/static/media/company4.d28bc1c73b05ed128955.png",
+    "static/media/company2.png": "/PayakonE-commerce/static/media/company2.092daf8016ba0e9d6938.png",
+    "static/media/instagram.png": "/PayakonE-commerce/static/media/instagram.2d5cedd576ca1a740d7c.png",
+    "static/media/company1.png": "/PayakonE-commerce/static/media/company1.a98c0ee2f8f09ffc5166.png",
+    "static/media/company3.png": "/PayakonE-commerce/static/media/company3.a2afc30aa77bb669275d.png",
+    "static/media/facebook.png": "/PayakonE-commerce/static/media/facebook.49e67d43221b6bb1aa86.png",
+    "static/media/linkedin.png": "/PayakonE-commerce/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/PayakonE-commerce/index.html",
+    "main.b31fd8d1.css.map": "/PayakonE-commerce/static/css/main.b31fd8d1.css.map",
+    "main.7174a108.js.map": "/PayakonE-commerce/static/js/main.7174a108.js.map",
+    "787.34115356.chunk.js.map": "/PayakonE-commerce/static/js/787.34115356.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31fd8d1.css",
+    "static/js/main.7174a108.js"
+  ]
+}
