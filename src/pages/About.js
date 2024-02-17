@@ -15,7 +15,7 @@ export default function Home() {
         <div className='head-cont'>
           <p>Welcome To</p>
           <h2>Payakon E-Commerce</h2>
-          <p>Discover endless possibilities at Payakan. Elevate your shopping experience with curated collections, exclusive deals, and seamless navigation. Shop confidently for quality products that suit your lifestyle. Welcome to a world of convenience and style – your one-stop destination for all things extraordinary.</p>
+          <p>Discover endless possibilities at Payakon. Elevate your shopping experience with curated collections, exclusive deals, and seamless navigation. Shop confidently for quality products that suit your lifestyle. Welcome to a world of convenience and style – your one-stop destination for all things extraordinary.</p>
         </div>
       </div>
       <div className='about-body'>

@@ -14,7 +14,7 @@ export default function Footer() {
                     <li>About Us</li>
                     <li>Carrers</li>
                     <li>Press Release</li>
-                    <li>Payakan Release</li>
+                    <li>Payakon Release</li>
                 </ul>
             </div>
             <div className='footer-sec2'>
@@ -31,8 +31,8 @@ export default function Footer() {
                     <li>Sell on payakon</li>
                     <li>Protect and build your brand</li>
                     <li>Advertise your products</li>
-                    <li>Payakan global selling</li>
-                    <li>Payakan pay on merchants</li>
+                    <li>Payakon global selling</li>
+                    <li>Payakon pay on merchants</li>
                 </ul>
             </div>
             <div className='footer-sec4'>
@@ -41,7 +41,7 @@ export default function Footer() {
                     <li>Your account</li>
                     <li>Returns Centre</li>
                     <li>100% purchase protection</li>
-                    <li>Payakan App Download</li>
+                    <li>Payakon App Download</li>
                     <li>Help</li>
                 </ul>
             </div>
