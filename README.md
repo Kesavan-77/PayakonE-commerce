@@ -1,4 +1,6 @@
 # Welcome to Payakon React Ecommerce Website
 
-# The app is under construction
+# Do check out my project in below link:
+
+https://payakonstore.netlify.app/
 
