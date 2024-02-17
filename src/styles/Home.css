@@ -31,6 +31,7 @@
     border: 3px solid #6b3bc4;
     background-color: #fff;
     margin-top: 20px;
+    font-size: 1rem;
     color: #6b3bc4;
     font-weight: bold;
     cursor: pointer;
@@ -38,6 +39,7 @@
 .head-cont button:hover{
     border: 3px solid #6b3bc4;
     background-color: #6b3bc4;
+    font-size: 1rem;
     color: #fff;
 }
 .services{
@@ -194,6 +196,23 @@
       width: 150px;
       margin-top: 10px;
     }
+    .head-cont button{
+      padding: 15px 25px 15px 25px;
+      border-radius: 8px;
+      font-size: 1rem;
+      border: 3px solid #6b3bc4;
+      background-color: #fff;
+      margin-top: 20px;
+      color: #6b3bc4;
+      font-weight: bold;
+      cursor: pointer;
+  }
+  .head-cont button:hover{
+      border: 3px solid #6b3bc4;
+      background-color: #6b3bc4;
+      font-size: 1rem;
+      color: #fff;
+  }
 }
 
 

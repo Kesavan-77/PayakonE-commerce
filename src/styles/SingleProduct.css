@@ -95,12 +95,14 @@
     text-align: start;
     padding-right: 10px;
     padding-top: 10px;
+    font-size: 1rem;
 }
 .singleProduct .container .sp-body .product-details .pd-body table td{
     color:#505050;
     text-align: justify;
     padding-right: 10px;
     padding-top: 10px;
+    font-size: 1rem;
 }
 
 @media screen and (max-width: 1024px) {
@@ -123,6 +125,20 @@
         align-items: center;
         justify-content: center;
     }
+    .singleProduct .container .sp-body .product-details .pd-body table th{
+        color:#505050;
+        text-align: start;
+        padding-right: 10px;
+        padding-top: 10px;
+        font-size: 1rem;
+    }
+    .singleProduct .container .sp-body .product-details .pd-body table td{
+        color:#505050;
+        text-align: justify;
+        padding-right: 10px;
+        padding-top: 10px;
+        font-size: 1rem;
+    }
 }
 @media screen and (max-width: 425px){
     .singleProduct .container .sp-head #head{
@@ -138,6 +154,20 @@
     .singleProduct .container .sp-body .product-img img{
         height: 220px;
         width: 300px;
+    }
+    .singleProduct .container .sp-body .product-details .pd-body table th{
+        color:#505050;
+        text-align: start;
+        padding-right: 10px;
+        padding-top: 10px;
+        font-size: 1rem;
+    }
+    .singleProduct .container .sp-body .product-details .pd-body table td{
+        color:#505050;
+        text-align: justify;
+        padding-right: 10px;
+        padding-top: 10px;
+        font-size: 1rem;
     }
 }
 
